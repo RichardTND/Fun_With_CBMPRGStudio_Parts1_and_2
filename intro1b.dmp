@@ -1,0 +1,41 @@
+
+******* 27 Label(s) *******
+ColourData = $2400 
+ColourWash = $0923 
+DoWash = $092E 
+DrawLoop = $0829 
+ExitIntro = $095A 
+ExitScroll = $0922 
+irq1 = $088A 
+irq2 = $08B0 
+LoopWash = $0947 
+LoopWash2 = $094E 
+MainLoop = $08CA 
+MessRead = $0905 
+rt = $0977 
+ScreenData = $2000 
+ScrollColours = $094C 
+ScrollColourTable = $097B 
+Scroller = $08EB 
+ScrollLoop = $08FA 
+ScrollText = $2800 
+SetupIRQ = $085D 
+SetupMain = $081A 
+SpaceNotPressed = $08DD 
+StoreChar = $0917 
+SyncTimer = $08E0 
+WashDelay = $0979 
+WashPointer = $097A 
+xpos = $0978 
+
+******* 0 Unused label(s) *******
+
+******* 3 Variable(s) *******
+Colour  = $D800
+Screen  = $0400
+tgt_c64  = $0001
+******* 3 Unused variables(s) *******
+Colour
+Screen
+tgt_c64
+

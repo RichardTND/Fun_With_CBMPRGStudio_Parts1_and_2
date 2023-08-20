@@ -1,0 +1,54 @@
+
+******* 38 Label(s) *******
+BarColour1 = $0A25 
+BarColour2 = $0A26 
+BarColourTable1 = $0A3B 
+BarColourTable2 = $0A4F 
+ColourData = $2400 
+ColourWash = $0967 
+CopyTransfer = $09DB 
+DoWash = $0972 
+DrawLoop = $0829 
+ExitIntro = $09AA 
+ExitScroll = $0966 
+GameData = $3800 
+irq1 = $088F 
+irq2 = $08C9 
+irq3 = $08F3 
+LoopWash = $0997 
+LoopWash2 = $099E 
+MainLoop = $090E 
+MessRead = $0949 
+Reloc1 = $0A00 
+Reloc2 = $0A02 
+rt = $0A21 
+ScreenData = $2000 
+ScrollColours = $099C 
+ScrollColourTable = $0A27 
+Scroller = $092F 
+ScrollLoop = $093E 
+ScrollText = $2800 
+SetupIRQ = $085D 
+SetupMain = $081A 
+SidOff = $09C7 
+SpaceNotPressed = $0921 
+StoreChar = $095B 
+SyncTimer = $0924 
+Transfer = $09FB 
+WashDelay = $0A23 
+WashPointer = $0A24 
+xpos = $0A22 
+
+******* 0 Unused label(s) *******
+
+******* 5 Variable(s) *******
+Colour  = $D800
+MusicInit  = $1000
+MusicPlay  = $1003
+Screen  = $0400
+tgt_c64  = $0001
+******* 3 Unused variables(s) *******
+Colour
+Screen
+tgt_c64
+

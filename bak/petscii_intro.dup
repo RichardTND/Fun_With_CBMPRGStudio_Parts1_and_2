@@ -1,0 +1,20 @@
+;labels
+al $081A .SetupMain
+al $0829 .DrawLoop
+al $085D .SetupIRQ
+al $088A .irq1
+al $08AB .irq2
+al $08CA .MainLoop
+al $08D3 .SyncTimer
+al $08DE .Scroller
+al $08ED .ScrollLoop
+al $08FD .MessRead
+al $090F .StoreChar
+al $091A .ExitScroll
+al $091B .rt
+al $091C .xpos
+al $2000 .ScreenData
+al $2400 .ColourData
+al $2800 .ScrollText
+;breakpoints
+
